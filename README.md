@@ -66,7 +66,7 @@ Exemplo:
 
 ## Task 3
 
-Construir uma API em Node.JS Linguagem que busque o resultado do Game por ID e retorne a saída exemplo da `<Task 3>`. **Envie junto com o teste uma collection do postman para testes.**
+Construir uma API em Node.JS Linguagem que busque o resultado do Game por ID e retorne a saída exemplo da `<Task 2>`. **Envie junto com o teste uma collection do postman para testes.**
 
 
 Causas de morte (retirado do [código fonte](https://github.com/id-Software/Quake-III-Arena/blob/master/code/game/bg_public.h))
