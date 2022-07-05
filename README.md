@@ -38,7 +38,7 @@ O parser deve ser capaz de ler o arquivo, agrupar os dados de cada jogo, e colet
 
 ## Task 2
 
-Após construir o parser construa um script que imprima um relatório de cada jogo contento
+Após construir o parser construa um script que imprima um relatório de cada jogo contendo
 - Quantidade de mortes por causa
 - Quantidade de mortes pelo `<world>`
 - O ranking geral de kills por jogador.
